@@ -1,4 +1,4 @@
-import TopNav from "../components/TopNav";
+import { TopNav } from "../components/TopNav";
 
 const EMAIL =
   process.env.NEXT_PUBLIC_CONTACT_EMAIL?.trim() || "defiweb4@icloud.com";
